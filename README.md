@@ -10,7 +10,7 @@ Debes seguir el Código de honor del ingeniero de sistemas para defender el est�
 * No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
 
 
-#add task - list task APP
+# add task - list task APP
 
 In the web console, click on the Refresh button. You should see the function deployed.
 
@@ -40,6 +40,6 @@ Create a subfolder named list-tasks and implement the function for returning the
 
 _Fecha : 18 de marzo del 2021_ 
 # Despliegue
-*add-task* (https://aqueous-brook-11783.herokuapp.com/user)
+*add-task* (https://task-appapi-ieti.azurewebsites.net/api/list-task?code=roNknhrbF1mFb7/I6Iuh308UEJK2CaCeQgy7QlPf/SwZWnGuQ6mLgg==)
 
-*list-task* (https://aqueous-brook-11783.herokuapp.com/user)
+*list-task* (https://task-appapi-ieti.azurewebsites.net/api/list-task?code=roNknhrbF1mFb7/I6Iuh308UEJK2CaCeQgy7QlPf/SwZWnGuQ6mLgg==)
