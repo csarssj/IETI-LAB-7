@@ -9,6 +9,30 @@ Debes seguir el Código de honor del ingeniero de sistemas para defender el est�
 
 * No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
 
+
+#add task - list task APP
+
+In the web console, click on the Refresh button. You should see the function deployed.
+
+![image](https://github.com/csarssj/IETI-LAB-7/blob/main/img/azure.jpg)
+
+![image](https://github.com/csarssj/IETI-LAB-7/blob/main/img/azure1.jpg)
+
+Click on the add-task link and use the Get Function Url to get the URL of your Azure function. Test it!
+
+#POST
+
+Create a subfolder named add-task and create a file named index.js. The file should export a function implementing the logic for adding a task. It gets two arguments: a context object where you can send the response of your function and the req object where the payload of the request is received. In the req.body object you will get the body of your request with the fields of a task to be created.
+
+![image](https://github.com/csarssj/IETI-LAB-7/blob/main/img/post.jpg)
+
+#GET
+
+Create a subfolder named list-tasks and implement the function for returning the list of tasks following the same steps of the part 1. It should use the HTTP Get method and return a 200 status.
+
+![image](https://github.com/csarssj/IETI-LAB-7/blob/main/img/get.jpg)
+
+
 # Authors
 
 [César González](https://github.com/csarssj) 
