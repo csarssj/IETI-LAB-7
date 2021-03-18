@@ -17,17 +17,17 @@ In the web console, click on the Refresh button. You should see the function dep
 
 ![image](https://github.com/csarssj/IETI-LAB-7/blob/main/img/azure.png)
 
-![image](https://github.com/csarssj/IETI-LAB-7/blob/main/img/azure1.png)
+![image](https://github.com/csarssj/IETI-LAB-7/blob/main/img/azure2.png)
 
 Click on the add-task link and use the Get Function Url to get the URL of your Azure function. Test it!
 
-#POST
+# POST
 
 Create a subfolder named add-task and create a file named index.js. The file should export a function implementing the logic for adding a task. It gets two arguments: a context object where you can send the response of your function and the req object where the payload of the request is received. In the req.body object you will get the body of your request with the fields of a task to be created.
 
 ![image](https://github.com/csarssj/IETI-LAB-7/blob/main/img/post.png)
 
-#GET
+# GET
 
 Create a subfolder named list-tasks and implement the function for returning the list of tasks following the same steps of the part 1. It should use the HTTP Get method and return a 200 status.
 
