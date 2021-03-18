@@ -1,0 +1,19 @@
+{
+  "name": "ieti-lab-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csarssj/IETI-LAB-7.git"
+  },
+  "author": "ceseg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csarssj/IETI-LAB-7/issues"
+  },
+  "homepage": "https://github.com/csarssj/IETI-LAB-7#readme"
+}
